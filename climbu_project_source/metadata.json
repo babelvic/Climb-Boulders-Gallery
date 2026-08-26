@@ -1,0 +1,6 @@
+{
+  "name": "ClimbU - Diario de Escalada",
+  "description": "Diario digital privado y profesional para escaladores de boulder: editor interactivo de presas en fotos, catálogo con filtros, gestión de rocódromos, intercambio en ZIP y estadísticas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
